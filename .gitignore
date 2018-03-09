@@ -1,0 +1,7 @@
+cmake-build-debug/*
+c/cmake-build-debug/*
+c++/cmake-build-debug/*
+!.gitignore
+.idea/*
+c/.idea/*
+c++/.idea/*
